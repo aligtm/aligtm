@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ali AlGhatam a Senior System Engineer in a leading hospital in Saudi Arabia.
+- 👀 I’m interested in Android Application, web applications and Python.
+- 🌱 I’m currently learning Swift and more about Python.
+- 💞️ I’m looking to collaborate on data visulization, data science, and machine learning.
+- 📫 How to reach me? via my email aligtm@gmail.com
